@@ -10,7 +10,7 @@ include "lib/lib.crypt.php";
 <body>
 
 <?php
-	$crypt = new PlanetEncryption('www.planetbiru.com');
+	$crypt = new PlanetEncryption('ISAC CANEDO');
 	echo base64_encode($crypt->Encrypt('plain text'));
 ?>
 
