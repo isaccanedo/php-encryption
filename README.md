@@ -1,3 +1,3 @@
-# PlanetEncryption
+# Encryption PHP
 
-This library is usefull to encrypt your data.
+Biblioteca PHP para criptografar seus dados
